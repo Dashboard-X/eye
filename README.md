@@ -1,6 +1,5 @@
 # eye
 A HTML & CSS eye that uses head-tracking and your webcam to follow you around. Intentionally unnerving.
-
 Watch a [video of a demo](http://www.youtube.com/watch?v=gUbwzsJ7-30), or play with the [live demo](http://ryhan.me/lab/eye/eye.html) yourself in Chrome.
 
 ### Kudos
